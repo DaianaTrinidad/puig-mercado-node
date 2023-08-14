@@ -1,0 +1,52 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    font-family: "Roboto";
+}
+.bg-yellow{
+    background-color: #eac926;
+}
+.bg-light-grey{
+    background-color: #ebebeb;
+}
+.w-50{
+    width: 50%;
+}
+.p-1{
+    padding: 8px;
+}
+.c-red{
+    color:red
+}
+.burger-menu{
+
+    color:white;
+    background-color: hsl(211, 92%, 15%);
+    text-align: center;
+    padding: 7px;
+    margin:auto;
+    max-width: 45px;
+    border-radius: 5px;
+    margin-bottom: 20px 0px;
+    display:block;
+
+}
+.pie-pagina{
+    text-align:center;
+
+}
+.icono{
+    font-size:2em;
+    margin-bottom:10px;
+}
+.icono-2{
+    text-align:center;
+    font-size:2em ;
+    margin-bottom:10px;
+}
+.icono-3{
+    font-size:2em;
+    margin-bottom:10px ;
+}
